@@ -11,7 +11,7 @@ public class ConsumoApi {
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create(endereco))
                 //https://fipe.online) address to create an valid token
-                .header("X-Subscription-Token", "XXXX4")
+                .header("X-Subscription-Token", "XXXX")
                 .build();
         HttpResponse<String> response = null;
         try {
