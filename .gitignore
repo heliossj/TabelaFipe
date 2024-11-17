@@ -18,6 +18,7 @@ target/
 *.iws
 *.iml
 *.ipr
+src/main/java/com/br/tabelafipe/TabelaFipe/service/ConsumoApi.java
 
 ### NetBeans ###
 /nbproject/private/
